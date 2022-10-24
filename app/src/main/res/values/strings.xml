@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">android-navigation</string>
+    <string name="register_button">Novo</string>
+    <string name="edit_button">Editar</string>
+    <string name="edit_id">Digite o ID</string>
+    <string name="send_button">Enviar</string>
+    <string name="cancel_button">Cancelar</string>
+    <string name="product_text_view">Produtos Adicionados</string>
+    <string name="title_text_view">Cadastrar Novo Produto</string>
+    <string name="name_edit_text">Nome</string>
+    <string name="quantity_edit_text">Quantidade</string>
+    <string name="price_edit_text">Preço</string>
+    <string name="image_delete">Deletar</string>
+</resources>
